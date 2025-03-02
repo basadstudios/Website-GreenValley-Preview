@@ -1,0 +1,114 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky background -->
+  <rect width="800" height="600" fill="#87CEEB"/>
+  
+  <!-- Sun/Moon -->
+  <circle cx="700" cy="100" r="60" fill="#FFD54F"/>
+  <circle cx="700" cy="100" r="50" fill="#FFECB3"/>
+  
+  <!-- Grass field -->
+  <rect x="0" y="300" width="800" height="300" fill="#4CAF50"/>
+  
+  <!-- Town Square platform -->
+  <rect x="100" y="350" width="600" height="20" fill="#8D6E63"/>
+  <rect x="150" y="370" width="500" height="10" fill="#795548"/>
+  
+  <!-- Decorative lights -->
+  <path d="M100 250 L700 250" stroke="#BDBDBD" stroke-width="2"/>
+  <path d="M100 250 L100 350" stroke="#BDBDBD" stroke-width="2"/>
+  <path d="M700 250 L700 350" stroke="#BDBDBD" stroke-width="2"/>
+  
+  <!-- String lights -->
+  <circle cx="150" cy="250" r="5" fill="#FFEB3B"/>
+  <circle cx="200" cy="250" r="5" fill="#FF5722"/>
+  <circle cx="250" cy="250" r="5" fill="#4CAF50"/>
+  <circle cx="300" cy="250" r="5" fill="#2196F3"/>
+  <circle cx="350" cy="250" r="5" fill="#FFEB3B"/>
+  <circle cx="400" cy="250" r="5" fill="#FF5722"/>
+  <circle cx="450" cy="250" r="5" fill="#4CAF50"/>
+  <circle cx="500" cy="250" r="5" fill="#2196F3"/>
+  <circle cx="550" cy="250" r="5" fill="#FFEB3B"/>
+  <circle cx="600" cy="250" r="5" fill="#FF5722"/>
+  <circle cx="650" cy="250" r="5" fill="#4CAF50"/>
+  
+  <!-- Festival banner -->
+  <rect x="200" y="200" width="400" height="40" fill="#FF9800"/>
+  <rect x="210" y="210" width="380" height="20" fill="#FFF59D"/>
+  
+  <!-- People -->
+  <!-- Person 1 -->
+  <circle cx="200" cy="460" r="15" fill="#FFCCBC"/>
+  <rect x="195" cy="475" width="10" height="30" fill="#5D4037"/>
+  <rect x="193" cy="505" width="5" height="20" fill="#5D4037"/>
+  <rect x="202" cy="505" width="5" height="20" fill="#5D4037"/>
+  
+  <!-- Person 2 -->
+  <circle cx="250" cy="440" r="15" fill="#FFCCBC"/>
+  <rect x="245" cy="455" width="10" height="30" fill="#3F51B5"/>
+  <rect x="243" cy="485" width="5" height="20" fill="#3F51B5"/>
+  <rect x="252" cy="485" width="5" height="20" fill="#3F51B5"/>
+  
+  <!-- Person 3 -->
+  <circle cx="300" cy="470" r="15" fill="#FFCCBC"/>
+  <rect x="295" cy="485" width="10" height="30" fill="#F44336"/>
+  <rect x="293" cy="515" width="5" height="20" fill="#F44336"/>
+  <rect x="302" cy="515" width="5" height="20" fill="#F44336"/>
+  
+  <!-- Person 4 -->
+  <circle cx="350" cy="450" r="15" fill="#FFCCBC"/>
+  <rect x="345" cy="465" width="10" height="30" fill="#9C27B0"/>
+  <rect x="343" cy="495" width="5" height="20" fill="#9C27B0"/>
+  <rect x="352" cy="495" width="5" height="20" fill="#9C27B0"/>
+  
+  <!-- Person 5 -->
+  <circle cx="400" cy="460" r="15" fill="#FFCCBC"/>
+  <rect x="395" cy="475" width="10" height="30" fill="#4CAF50"/>
+  <rect x="393" cy="505" width="5" height="20" fill="#4CAF50"/>
+  <rect x="402" cy="505" width="5" height="20" fill="#4CAF50"/>
+  
+  <!-- Person 6 -->
+  <circle cx="450" cy="440" r="15" fill="#FFCCBC"/>
+  <rect x="445" cy="455" width="10" height="30" fill="#FF9800"/>
+  <rect x="443" cy="485" width="5" height="20" fill="#FF9800"/>
+  <rect x="452" cy="485" width="5" height="20" fill="#FF9800"/>
+  
+  <!-- Person 7 -->
+  <circle cx="500" cy="470" r="15" fill="#FFCCBC"/>
+  <rect x="495" cy="485" width="10" height="30" fill="#009688"/>
+  <rect x="493" cy="515" width="5" height="20" fill="#009688"/>
+  <rect x="502" cy="515" width="5" height="20" fill="#009688"/>
+  
+  <!-- Person 8 -->
+  <circle cx="550" cy="450" r="15" fill="#FFCCBC"/>
+  <rect x="545" cy="465" width="10" height="30" fill="#FFC107"/>
+  <rect x="543" cy="495" width="5" height="20" fill="#FFC107"/>
+  <rect x="552" cy="495" width="5" height="20" fill="#FFC107"/>
+  
+  <!-- Band/Musicians -->
+  <!-- Musician 1 -->
+  <circle cx="170" cy="400" r="15" fill="#FFCCBC"/>
+  <rect x="165" cy="415" width="10" height="30" fill="#212121"/>
+  <rect x="145" cy="420" width="25" height="30" fill="#795548"/> <!-- Guitar -->
+  
+  <!-- Musician 2 -->
+  <circle cx="230" cy="390" r="15" fill="#FFCCBC"/>
+  <rect x="225" cy="405" width="10" height="30" fill="#212121"/>
+  <rect x="220" cy="385" width="20" height="10" fill="#FFC107"/> <!-- Microphone -->
+  <rect x="227" cy="375" width="5" height="10" fill="#9E9E9E"/>
+  
+  <!-- Musician 3 -->
+  <circle cx="290" cy="400" r="15" fill="#FFCCBC"/>
+  <rect x="285" cy="415" width="10" height="30" fill="#212121"/>
+  <circle cx="270" cy="410" r="15" fill="#E0E0E0"/> <!-- Drum -->
+  <rect x="265" cy="425" width="10" height="20" fill="#9E9E9E"/> <!-- Drum stand -->
+  
+  <!-- Food stalls -->
+  <rect x="600" cy="420" width="80" height="40" fill="#F57F17"/>
+  <rect x="600" cy="410" width="80" height="10" fill="#FFB300"/>
+  <rect x="610" cy="430" width="20" height="10" fill="#FFECB3"/> <!-- Food display -->
+  <rect x="640" cy="430" width="20" height="10" fill="#FFECB3"/> <!-- Food display -->
+  
+  <!-- Decorative trees -->
+  <ellipse cx="50" cy="450" rx="20" ry="40" fill="#33691E"/>
+  <ellipse cx="750" cy="450" rx="20" ry="40" fill="#33691E"/>
+</svg> 

@@ -1,0 +1,86 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky gradient -->
+  <rect width="1200" height="400" fill="url(#sky_gradient)"/>
+  
+  <!-- Far mountains -->
+  <path d="M0 180L100 160L200 190L300 170L400 200L500 180L600 165L700 185L800 170L900 190L1000 160L1100 175L1200 160V400H0V180Z" fill="#4D7C73" opacity="0.7"/>
+  
+  <!-- Middle mountains -->
+  <path d="M0 220L100 200L200 230L300 210L400 240L500 220L600 205L700 225L800 210L900 230L1000 200L1100 215L1200 200V400H0V220Z" fill="#3D6B5F"/>
+  
+  <!-- Hills -->
+  <path d="M0 280L50 260L100 270L150 250L200 265L250 255L300 275L350 250L400 265L450 275L500 260L550 270L600 250L650 260L700 275L750 255L800 270L850 260L900 270L950 250L1000 265L1050 255L1100 275L1150 260L1200 270V400H0V280Z" fill="#2D6A4F"/>
+  
+  <!-- Foreground -->
+  <path d="M0 320H1200V400H0V320Z" fill="#234F3B"/>
+  
+  <!-- Village skyline -->
+  <g transform="translate(600, 320)">
+    <!-- Central church/town hall -->
+    <rect x="-40" y="-120" width="80" height="120" fill="#FFEBCD"/>
+    <polygon points="-40,-120 40,-120 0,-160" fill="#C8553D"/>
+    <rect x="-5" y="-70" width="10" height="20" fill="#8B4513"/>
+    
+    <!-- Clock tower -->
+    <rect x="-15" y="-160" width="30" height="40" fill="#FFEBCD"/>
+    <circle cx="0" cy="-150" r="8" fill="white" stroke="#000" stroke-width="2"/>
+    <line x1="0" y1="-150" x2="0" y2="-146" stroke="#000" stroke-width="2"/>
+    <line x1="0" y1="-150" x2="4" y2="-150" stroke="#000" stroke-width="2"/>
+    
+    <!-- Left houses -->
+    <rect x="-140" y="-70" width="40" height="70" fill="#A9C5A0"/>
+    <polygon points="-140,-70 -100,-70 -120,-90" fill="#8B4513"/>
+    
+    <rect x="-200" y="-50" width="40" height="50" fill="#FFD580"/>
+    <polygon points="-200,-50 -160,-50 -180,-70" fill="#8B4513"/>
+    
+    <rect x="-260" y="-60" width="40" height="60" fill="#FFEBCD"/>
+    <polygon points="-260,-60 -220,-60 -240,-80" fill="#8B4513"/>
+    
+    <!-- Right houses -->
+    <rect x="100" y="-60" width="40" height="60" fill="#F3D5B5"/>
+    <polygon points="100,-60 140,-60 120,-80" fill="#8B4513"/>
+    
+    <rect x="160" y="-80" width="50" height="80" fill="#A9C5A0"/>
+    <polygon points="160,-80 210,-80 185,-110" fill="#8B4513"/>
+    
+    <rect x="230" y="-50" width="40" height="50" fill="#FFD580"/>
+    <polygon points="230,-50 270,-50 250,-70" fill="#8B4513"/>
+  </g>
+  
+  <!-- Trees -->
+  <g>
+    <!-- Left side trees -->
+    <circle cx="100" cy="280" r="25" fill="#1B4332"/>
+    <rect x="95" y="280" width="10" height="20" fill="#8B4513"/>
+    
+    <circle cx="150" cy="290" r="20" fill="#1B4332"/>
+    <rect x="145" y="290" width="10" height="15" fill="#8B4513"/>
+    
+    <circle cx="250" cy="285" r="30" fill="#1B4332"/>
+    <rect x="245" y="285" width="10" height="20" fill="#8B4513"/>
+    
+    <!-- Right side trees -->
+    <circle cx="950" cy="280" r="25" fill="#1B4332"/>
+    <rect x="945" y="280" width="10" height="20" fill="#8B4513"/>
+    
+    <circle cx="1050" cy="290" r="20" fill="#1B4332"/>
+    <rect x="1045" y="290" width="10" height="15" fill="#8B4513"/>
+    
+    <circle cx="1120" cy="285" r="30" fill="#1B4332"/>
+    <rect x="1115" y="285" width="10" height="20" fill="#8B4513"/>
+  </g>
+  
+  <!-- Sun -->
+  <circle cx="200" cy="100" r="50" fill="#FFC857"/>
+  <circle cx="200" cy="100" r="60" fill="#FFC857" opacity="0.4"/>
+  <circle cx="200" cy="100" r="70" fill="#FFC857" opacity="0.2"/>
+  
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="sky_gradient" x1="0" y1="0" x2="0" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#87CEEB"/>
+      <stop offset="1" stop-color="#E0F2F1"/>
+    </linearGradient>
+  </defs>
+</svg> 

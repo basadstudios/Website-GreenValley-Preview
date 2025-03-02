@@ -1,0 +1,55 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky Background -->
+  <rect width="1200" height="800" fill="#87CEEB"/>
+  
+  <!-- Hills -->
+  <path d="M0 500C200 400 400 450 600 500C800 550 1000 500 1200 550V800H0V500Z" fill="#4F7942"/>
+  <path d="M0 600C200 550 400 600 600 580C800 560 1000 600 1200 580V800H0V600Z" fill="#2D6A4F"/>
+  
+  <!-- River -->
+  <path d="M800 500C750 550 740 600 750 650C760 700 800 750 850 800H650C700 750 740 700 730 650C720 600 680 550 630 500C680 480 730 480 780 500C830 520 850 480 800 500Z" fill="#1E90FF"/>
+  
+  <!-- Village Buildings -->
+  <rect x="100" y="550" width="80" height="60" fill="#D2B48C"/>
+  <rect x="110" y="530" width="60" height="20" fill="#8B4513"/>
+  <rect x="120" y="590" width="15" height="20" fill="#4F4F4F"/>
+  
+  <rect x="220" y="560" width="70" height="50" fill="#F5DEB3"/>
+  <rect x="230" y="540" width="50" height="20" fill="#A52A2A"/>
+  <rect x="240" y="590" width="15" height="20" fill="#4F4F4F"/>
+  
+  <rect x="320" y="540" width="90" height="70" fill="#FAEBD7"/>
+  <rect x="330" y="520" width="70" height="20" fill="#8B4513"/>
+  <rect x="350" y="590" width="15" height="20" fill="#4F4F4F"/>
+  
+  <rect x="450" y="570" width="60" height="40" fill="#DEB887"/>
+  <rect x="460" y="550" width="40" height="20" fill="#A52A2A"/>
+  <rect x="470" y="590" width="15" height="20" fill="#4F4F4F"/>
+  
+  <!-- Church/Town Hall -->
+  <rect x="550" y="540" width="100" height="70" fill="#E6E6FA"/>
+  <rect x="590" y="490" width="20" height="50" fill="#4F4F4F"/>
+  <polygon points="580,490 620,490 600,460" fill="#CD5C5C"/>
+  <rect x="580" y="590" width="15" height="20" fill="#4F4F4F"/>
+  
+  <!-- Trees -->
+  <circle cx="150" cy="500" r="20" fill="#006400"/>
+  <circle cx="180" cy="480" r="15" fill="#228B22"/>
+  <circle cx="200" cy="510" r="25" fill="#006400"/>
+  <circle cx="400" cy="490" r="20" fill="#228B22"/>
+  <circle cx="430" cy="480" r="15" fill="#006400"/>
+  <circle cx="650" cy="520" r="25" fill="#228B22"/>
+  <circle cx="680" cy="500" r="20" fill="#006400"/>
+  <circle cx="700" cy="530" r="15" fill="#228B22"/>
+  
+  <!-- Fields -->
+  <rect x="800" y="600" width="150" height="100" fill="#DAA520" stroke="#8B4513" stroke-width="2"/>
+  <rect x="800" y="700" width="150" height="100" fill="#F0E68C" stroke="#8B4513" stroke-width="2"/>
+  
+  <!-- Roads -->
+  <path d="M100 610C150 610 200 620 250 610C300 600 350 610 400 610C450 610 500 600 550 610C600 620 650 610 700 610" stroke="#8B4513" stroke-width="8"/>
+  
+  <!-- Sun -->
+  <circle cx="100" cy="100" r="60" fill="#FFD700"/>
+  <circle cx="100" cy="100" r="50" fill="#FFA500"/>
+</svg> 

@@ -1,0 +1,60 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="150" cy="150" r="150" fill="#D8F3DC"/>
+  
+  <!-- Decorative frame -->
+  <circle cx="150" cy="150" r="140" stroke="#2D6A4F" stroke-width="3" stroke-dasharray="2 4"/>
+  
+  <!-- Shoulders/Suit -->
+  <path d="M70 240C70 240 100 200 150 200C200 200 230 240 230 240V300H70V240Z" fill="#1B4332"/>
+  <path d="M140 220V270" stroke="#0C2C1E" stroke-width="3"/>
+  <path d="M160 220V270" stroke="#0C2C1E" stroke-width="3"/>
+  
+  <!-- Collar -->
+  <path d="M120 200L150 230L180 200" stroke="white" stroke-width="3"/>
+  
+  <!-- Neck -->
+  <path d="M120 200C120 200 135 190 150 190C165 190 180 200 180 200V160C180 160 165 150 150 150C135 150 120 160 120 160V200Z" fill="#FFCBA4"/>
+  
+  <!-- Head -->
+  <circle cx="150" cy="110" r="60" fill="#FFCBA4"/>
+  
+  <!-- Hair -->
+  <path d="M100 100C100 100 110 60 150 60C190 60 200 100 200 100" fill="#1A1A1A"/>
+  <path d="M100 100C100 100 110 60 150 60C190 60 200 100 200 100" stroke="#1A1A1A" stroke-width="20"/>
+  
+  <!-- Ears -->
+  <ellipse cx="90" cy="110" rx="10" ry="15" fill="#FFCBA4"/>
+  <ellipse cx="210" cy="110" rx="10" ry="15" fill="#FFCBA4"/>
+  
+  <!-- Eyes -->
+  <ellipse cx="130" cy="100" rx="8" ry="6" fill="white"/>
+  <ellipse cx="170" cy="100" rx="8" ry="6" fill="white"/>
+  <circle cx="130" cy="100" r="3" fill="#593D2B"/>
+  <circle cx="170" cy="100" r="3" fill="#593D2B"/>
+  
+  <!-- Eyebrows -->
+  <path d="M120 90C120 90 130 85 140 90" stroke="#1A1A1A" stroke-width="2"/>
+  <path d="M160 90C160 90 170 85 180 90" stroke="#1A1A1A" stroke-width="2"/>
+  
+  <!-- Nose -->
+  <path d="M150 100L145 120H155Z" fill="#FFCBA4"/>
+  <path d="M145 120H155" stroke="#FFCBA4" stroke-width="2"/>
+  
+  <!-- Mouth -->
+  <path d="M135 135C135 135 145 142 165 135" stroke="#A52A2A" stroke-width="2"/>
+  
+  <!-- Facial Hair - Beard -->
+  <path d="M130 145C130 145 150 160 170 145" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M130 145L130 155" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M170 145L170 155" stroke="#1A1A1A" stroke-width="3"/>
+  <path d="M130 155C130 155 150 168 170 155" stroke="#1A1A1A" stroke-width="3"/>
+  
+  <!-- Decorative badge -->
+  <circle cx="185" cy="210" r="15" fill="#95D5B2"/>
+  <path d="M185 200L187 205H193L188 209L190 215L185 211L180 215L182 209L177 205H183L185 200Z" fill="#2D6A4F"/>
+  
+  <!-- Name tag -->
+  <rect x="105" y="240" width="90" height="20" rx="5" fill="white"/>
+  <text x="150" y="254" font-family="Arial" font-size="10" text-anchor="middle" fill="#2D6A4F">DEPUTY MAYOR</text>
+</svg> 

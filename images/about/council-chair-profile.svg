@@ -1,0 +1,73 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="150" cy="150" r="150" fill="#B7E4C7"/>
+  
+  <!-- Decorative frame -->
+  <circle cx="150" cy="150" r="140" stroke="#2D6A4F" stroke-width="3" stroke-dasharray="2 4"/>
+  
+  <!-- Shoulders/Suit -->
+  <path d="M70 240C70 240 100 200 150 200C200 200 230 240 230 240V300H70V240Z" fill="#3A7561"/>
+  <path d="M140 220V270" stroke="#2D6A4F" stroke-width="3"/>
+  <path d="M160 220V270" stroke="#2D6A4F" stroke-width="3"/>
+  
+  <!-- Collar -->
+  <path d="M120 200L150 230L180 200" stroke="white" stroke-width="3"/>
+  
+  <!-- Neck -->
+  <path d="M120 200C120 200 135 190 150 190C165 190 180 200 180 200V160C180 160 165 150 150 150C135 150 120 160 120 160V200Z" fill="#F3C5AD"/>
+  
+  <!-- Head -->
+  <circle cx="150" cy="110" r="60" fill="#F3C5AD"/>
+  
+  <!-- Hair -->
+  <path d="M110 75C110 75 120 40 150 40C180 40 190 75 190 75" fill="#3A271B"/>
+  <path d="M110 75C110 75 120 40 150 40C180 40 190 75 190 75" stroke="#3A271B" stroke-width="20"/>
+  <path d="M90 110C90 110 90 80 105 70" stroke="#3A271B" stroke-width="15"/>
+  <path d="M210 110C210 110 210 80 195 70" stroke="#3A271B" stroke-width="15"/>
+  
+  <!-- Ears -->
+  <ellipse cx="90" cy="110" rx="10" ry="15" fill="#F3C5AD"/>
+  <ellipse cx="210" cy="110" rx="10" ry="15" fill="#F3C5AD"/>
+  
+  <!-- Eyes -->
+  <ellipse cx="130" cy="100" rx="8" ry="6" fill="white"/>
+  <ellipse cx="170" cy="100" rx="8" ry="6" fill="white"/>
+  <circle cx="130" cy="100" r="3" fill="#5E3719"/>
+  <circle cx="170" cy="100" r="3" fill="#5E3719"/>
+  
+  <!-- Eyebrows -->
+  <path d="M120 85C120 85 130 80 140 85" stroke="#3A271B" stroke-width="2"/>
+  <path d="M160 85C160 85 170 80 180 85" stroke="#3A271B" stroke-width="2"/>
+  
+  <!-- Eyelashes -->
+  <path d="M122 94L120 90" stroke="#3A271B" stroke-width="1"/>
+  <path d="M130 94L130 90" stroke="#3A271B" stroke-width="1"/>
+  <path d="M138 94L140 90" stroke="#3A271B" stroke-width="1"/>
+  
+  <path d="M162 94L160 90" stroke="#3A271B" stroke-width="1"/>
+  <path d="M170 94L170 90" stroke="#3A271B" stroke-width="1"/>
+  <path d="M178 94L180 90" stroke="#3A271B" stroke-width="1"/>
+  
+  <!-- Nose -->
+  <path d="M150 100L145 120H155Z" fill="#F3C5AD"/>
+  <path d="M145 120H155" stroke="#F3C5AD" stroke-width="2"/>
+  
+  <!-- Mouth -->
+  <path d="M135 135C135 135 145 145 165 135" stroke="#CC7E85" stroke-width="2"/>
+  
+  <!-- Earrings -->
+  <circle cx="90" cy="125" r="5" fill="#FFD700"/>
+  <circle cx="210" cy="125" r="5" fill="#FFD700"/>
+  
+  <!-- Necklace -->
+  <path d="M120 185C120 185 150 195 180 185" stroke="#FFD700" stroke-width="2"/>
+  <circle cx="150" cy="190" r="4" fill="#FFD700"/>
+  
+  <!-- Decorative badge -->
+  <circle cx="185" cy="210" r="15" fill="#FFD700"/>
+  <path d="M185 200L187 205H193L188 209L190 215L185 211L180 215L182 209L177 205H183L185 200Z" fill="#2D6A4F"/>
+  
+  <!-- Name tag -->
+  <rect x="110" y="240" width="80" height="20" rx="5" fill="white"/>
+  <text x="150" y="254" font-family="Arial" font-size="9" text-anchor="middle" fill="#2D6A4F">COUNCIL CHAIR</text>
+</svg> 
